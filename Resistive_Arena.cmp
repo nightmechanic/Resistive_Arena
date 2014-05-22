@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-19 BZR 4624)-product date = 5/22/2014 11:55:32 PM
+
+BeginCmp
+TimeStamp = /537D08C7;
+Reference = P1;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D084F;
+Reference = P2;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0863;
+Reference = P3;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0877;
+Reference = P4;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D088B;
+Reference = P5;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D089F;
+Reference = P6;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D08B3;
+Reference = P7;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537E641A;
+Reference = P8;
+ValeurCmp = 1360_2_PIN;
+IdModule  = Arena:KEYSTONE_1360_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D03C7;
+Reference = R1;
+ValeurCmp = 10R;
+IdModule  = Arena:0805_large;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D03DB;
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = Arena:0805_large;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D03EF;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Arena:0805_large;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0403;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Arena:0805_large;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0417;
+Reference = R5;
+ValeurCmp = 100k;
+IdModule  = Arena:0805_large;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D042B;
+Reference = R6;
+ValeurCmp = 1M;
+IdModule  = Arena:VISHAY_PTF65;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D043F;
+Reference = R7;
+ValeurCmp = 10M;
+IdModule  = Arena:SLIM_MOX10403;
+EndCmp
+
+EndListe

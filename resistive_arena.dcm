@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1360_2_PIN
+D Gold plated pin
+K terminal
+$ENDCMP
+#
+$CMP 1360_2_TERMINAL
+D Gold plated pin
+K terminal
+$ENDCMP
+#
+#End Doc Library
