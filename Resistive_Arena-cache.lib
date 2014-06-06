@@ -6,8 +6,11 @@ EESchema-LIBRARY Version 2.3
 DEF 1360_2_PIN P 0 40 N N 1 F N
 F0 "P" 0 450 60 H V C CNN
 F1 "1360_2_PIN" 0 550 60 H V C CNN
-F2 "KEYSTONE_1360_2" -100 350 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
+F2 "KEYSTONE_1360_2" -100 350 60 H I C CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/3057" 0 450 60 H I C CNN
+F4 "Keystone" 100 550 60 H I C CNN "Manufacturer"
+F5 "1360-2" 200 650 60 H I C CNN "Part Number"
+F6 "Mouser" 300 750 60 H I C CNN "Source"
 DRAW
 C 0 350 50 0 1 0 N
 X 1 1 0 0 300 U 50 50 1 1 B
